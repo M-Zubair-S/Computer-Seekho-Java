@@ -1,0 +1,31 @@
+.img
+{
+    text-align: left;
+    width: 100vw;
+}
+.me-2
+{
+background-color: blanchedalmond;
+}
+
+.header{
+    height: 200px;
+}
+.center
+{
+    text-align: left;
+    display: block;
+    justify-content: left;
+    align-items: left;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    align-self: left;
+    align-content: left;
+    align-tracks: left;
+}
+.h1{
+background-color: azure;
+color: coral;
+}
+    

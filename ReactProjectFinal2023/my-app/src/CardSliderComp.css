@@ -1,0 +1,172 @@
+/*.CardsliderComp {
+    width: 100px;
+    margin: 20px;
+  }
+  
+  .CardsliderComp1 {
+    width: 200px;
+    margin: 10px;
+  }
+  .CardsliderComp2 {
+    width: 200px;
+    margin: 10px;
+  }
+  .cb-centermode {
+    margin-bottom: 10px;
+    display:block;
+  }
+  .cb-centermode input {
+    margin-right: 7px;
+  }
+  .img-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  /* card style start */
+  /*.img-card:hover {
+    cursor: pointer;
+  }
+  .img-card {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .img-card {
+    background-color: #f5f5f5;
+  }
+  
+  .img-card {
+    border-radius: 1px;
+    background:rgba(221, 220, 220, 0);;
+    color: #666;
+    overflow:hidden;
+    box-shadow: 0 10px 50px 0 rgba(255, 255, 255, 0);
+    transition: 0.3s;
+    
+  }
+  .App {
+    margin: 50px auto;
+    width: 80%;
+  }
+  
+  .img-card {
+    background-color: #f5f5f5;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .img-card:hover {
+    cursor: pointer;
+    transform: translateY(-10px);
+  }
+  
+  .img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .img-card:hover{
+    box-shadow: 0 2px 4px 0 rgb(206, 195, 195);
+  }
+  
+  .img {
+    /* text-align: center; */
+    /*width: 100%;
+    height: 185px;
+    object-fit:contain;
+    
+  }
+  
+  .card-body {
+    padding:10px;
+    margin:10px;
+  }
+  
+  .card-title {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    
+  }
+  
+  .card-text {
+    margin-top: 10px;
+    text-align: center;
+    margin-left:15px;
+   
+  }
+  .card-text .productprice{
+  
+    text-decoration: line-through;
+  }
+  
+  /* card style end */
+  
+  
+  /* carousel slider style start */
+  
+  /*.slick-slide > div {
+    margin:10px 100px 5px -10px ;
+  }
+  
+  .slick-list {
+    margin:90px;
+  }
+  
+  .slick-slide *:active{
+    outline:none;
+  }
+  
+
+
+
+*/
+
+.img-card {
+  transition: transform 0.3s ease-in-out;
+}
+.img-card:hover {
+  cursor: pointer;
+}
+.img-card {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  
+}
+.img-card {
+  background-color: #f5f5f5;
+}
+.App {
+  margin: 20px auto;
+  width: 50%;
+}
+
+.img-card {
+  background-color: #f5f5f5;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+
+  
+
+}
+
+.img-card:hover {
+  cursor: pointer;
+  transform: translateY(-10px);
+}
+
+.img {
+  
+  width: 1000px;
+    height:400px;
+  
+
+}
+
+.card-body {
+  padding: 0px;
+  text-align: center;
+  
+}
